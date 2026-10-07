@@ -1,0 +1,36 @@
+customer_id,customer_name,city,orders,order_value_inr,OT %,IF %,OTIF %,OTIF Target %,OTIF Gap (pts),Segment
+789402,Propel Mart,Ahmedabad,353,18534490,74.5,56.4,39.1,71,-31.9,Core
+789301,Foodtown,"New Jersey, US",364,18247182,68.7,55.8,30.5,69,-38.5,Core
+789902,Elite Mart,Ahmedabad,349,18194928,74.8,58.2,40.1,73,-32.9,Core
+789320,Whole Foods Market,"New Jersey, US",354,18184193,70.3,58.5,36.7,74,-37.3,Core
+789102,Vijay Stores,Ahmedabad,371,18154402,69.5,58.8,35.6,73,-37.4,Core
+789521,Acclaimed Stores,Ahmedabad,518,18117153,30.1,66.8,20.1,62,-41.9,On-Time failure
+789103,Vijay Stores,Vadodara,342,17970915,75.1,15.8,9.1,62,-52.9,In-Full failure
+789503,Viveks Stores,Vadodara,365,17950486,69.0,62.7,38.9,71,-32.1,Core
+789603,Info Stores,Vadodara,359,17922188,71.6,64.9,43.7,69,-25.3,Core
+789420,Lidl,"New Jersey, US",507,17770867,28.8,67.9,21.7,59,-37.3,On-Time failure
+789401,Wegmans,"New Jersey, US",342,17615563,71.6,55.3,35.7,67,-31.3,Core
+789601,Price Rite,"New Jersey, US",362,17604813,71.3,17.4,8.8,62,-53.2,In-Full failure
+789220,ShopRite,"New Jersey, US",340,17526903,74.1,60.3,41.2,69,-27.8,Core
+789720,Colonial Farms,"New Jersey, US",366,17419053,69.1,63.4,41.0,66,-25.0,Core
+789101,Costco Wholesale,"New Jersey, US",361,17401290,71.5,56.2,35.7,69,-33.3,Core
+789622,Expert Mart,Vadodara,354,17388276,70.1,56.5,36.4,71,-34.6,Core
+789621,Expert Mart,Ahmedabad,357,17300866,72.0,62.2,38.7,75,-36.3,Core
+789903,Elite Mart,Vadodara,349,17288387,73.4,16.9,10.0,60,-50.0,In-Full failure
+789202,Rel Fresh,Ahmedabad,347,17221563,73.8,53.6,34.0,69,-35.0,Core
+789721,Logic Stores,Ahmedabad,352,17113513,70.7,61.6,40.3,67,-26.7,Core
+789403,Propel Mart,Vadodara,324,17108374,77.5,65.7,48.5,68,-19.5,Core
+789201,Rel Fresh,"New Jersey, US",324,17099117,71.3,58.6,35.8,70,-34.2,Core
+789321,Chiptec Stores,Ahmedabad,347,17016363,72.6,62.2,40.6,70,-29.4,Core
+789122,Coolblue,Vadodara,518,16998993,28.6,21.2,7.7,49,-41.3,Dual failure
+789422,Lotus Mart,Vadodara,487,16975151,28.3,69.2,19.1,64,-44.9,On-Time failure
+789702,Sorefoz Mart,Ahmedabad,358,16891151,70.4,17.3,10.1,59,-48.9,In-Full failure
+789121,Coolblue,Ahmedabad,511,16722836,31.5,66.3,20.5,60,-39.5,On-Time failure
+789703,Sorefoz Mart,Vadodara,337,16715170,74.2,59.6,39.5,66,-26.5,Core
+789303,Expression Stores,Vadodara,337,16677621,71.8,65.9,43.9,69,-25.1,Core
+789501,Best Market,"New Jersey, US",338,16574807,72.8,58.0,39.9,74,-34.1,Core
+789520,Fairway Market,"New Jersey, US",471,16467753,29.3,22.3,5.9,51,-45.1,Dual failure
+789221,Atlas Stores,Ahmedabad,373,16458241,70.5,59.2,39.4,68,-28.6,Core
+789421,Lotus Mart,Ahmedabad,496,16229971,28.6,26.0,8.9,51,-42.1,Dual failure
+789522,Acclaimed Stores,Vadodara,500,16071116,28.4,66.4,18.0,60,-42.0,On-Time failure
+789203,Rel Fresh,Vadodara,334,15940724,71.3,57.8,36.8,70,-33.2,Core
