@@ -1,0 +1,8 @@
+KPI,Value,Grain
+Total Orders,13467.0,order
+Total Order Lines,24195.0,line
+Line Fill Rate,65.9,line
+Volume Fill Rate,96.6,line/unit
+On-Time Delivery,59.2,order
+In-Full Delivery,52.6,order
+OTIF,28.7,order
